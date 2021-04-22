@@ -1,4 +1,4 @@
 export const defaultUser = {
-	username: '',
-	password: ''
+  username: "",
+  password: "",
 };
